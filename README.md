@@ -6,8 +6,8 @@ Layout for e-commerce app
 
 
 Command:
--- npm i  
--- npm start
+--install dependencies `npm i`
+--to run client side  `npm start`
 
 Screenshots:
 Register:
